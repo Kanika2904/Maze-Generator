@@ -1,0 +1,5 @@
+com\example\maze\models\Cell.class
+com\example\maze\MazeService.class
+com\example\maze\MazeApplication.class
+com\example\maze\models\Maze.class
+com\example\maze\MazeController.class
